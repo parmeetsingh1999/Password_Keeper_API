@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("localhost","root","empire123","notes");
+    $con = mysqli_connect("localhost","parmeet","parmeet123","pass_key");
     if ($con)
     {
             $website = $_POST['website'];
